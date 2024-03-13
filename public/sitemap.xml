@@ -1,0 +1,11 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://example.org/France/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/Info/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/italy/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/london/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
