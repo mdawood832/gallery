@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gallery</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.org/France/</link>
+      <link>http://localhost:1313/France/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/France/</guid>
+      <guid>http://localhost:1313/France/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://example.org/Info/</link>
+      <link>http://localhost:1313/Info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/Info/</guid>
+      <guid>http://localhost:1313/Info/</guid>
       <description>An art gallery based on my study abroad trip studying European art and culture through London, Paris, Nice, Milan, Venice, Florence, and Rome.&#xA;Original site design by Tyler McRobert.&#xA;© 2024 Spedon | Powered by Hugo</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.org/italy/</link>
+      <link>http://localhost:1313/italy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/italy/</guid>
+      <guid>http://localhost:1313/italy/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://example.org/london/</link>
+      <link>http://localhost:1313/london/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/london/</guid>
+      <guid>http://localhost:1313/london/</guid>
       <description></description>
     </item>
   </channel>
